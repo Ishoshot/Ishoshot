@@ -7,3 +7,7 @@ I am a goal-oriented and result-driven person.
 I adore wicked people. I'm specifically referring to folks that are passionate about their personal growth. :grin:
 
 Finally, I'm currently obssessed with improving the quality of life of Nigerian Students [Waka4Me](https://waka4me.herokuapp.com). :four_leaf_clover: 
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ishoshot&show_icons=true)  
+
+![Profile views](https://gpvc.arturio.dev/ishoshot) 
