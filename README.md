@@ -4,4 +4,4 @@ I am [Oluwatobi Ishola](https://twitter.com/mroluwatobby), a Software Engineer w
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ishoshot&show_icons=true)  
 
-![Profile views](https://gpvc.arturio.dev/ishoshot) 
+![](https://komarev.com/ghpvc/?username=ishoshot&style=flat-square)
