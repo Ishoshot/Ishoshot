@@ -5,3 +5,5 @@ I am [Oluwatobi Ishola](https://twitter.com/mroluwatobby), a Software Engineer w
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ishoshot&show_icons=true)  
 
 ![](https://komarev.com/ghpvc/?username=ishoshot&style=flat-square)
+
+<img src="https://myreadme.vercel.app/api/embed/ishoshot?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
